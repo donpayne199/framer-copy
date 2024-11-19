@@ -1,0 +1,27 @@
+.right-container {
+  background: rgba(204, 204, 204, 0.2);
+}
+
+.right-btn-set {
+  width: 25%;
+  margin: 0 auto;
+  padding-top: 10rem;
+}
+
+.tour-btn {
+  cursor: pointer;
+  padding: 8px;
+  font-size: 14px;
+  color: #555;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 100%;
+  border: solid rgba(179, 179, 179, 0.2) 2px;
+  background: rgb(153, 153, 153);
+  background: linear-gradient(
+    180deg,
+    rgba(153, 153, 153, 0.3) 0%,
+    rgba(191, 191, 191, 0.1) 50%,
+    rgba(153, 153, 153, 0.3) 100%
+  );
+}
